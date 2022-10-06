@@ -25,6 +25,7 @@ class ImageContainer extends StatelessWidget {
     return Container(
       height: height,
       padding: padding,
+      margin: margin,
       width: width,
       child: child,
       decoration: BoxDecoration(
